@@ -1,9 +1,9 @@
 ### Olá! Eu sou o André 👋
 
-- 🌱 Eu estou estudando Análise e Desenvolvimento de Sistemas / Eu estou no 4º período
-- 👯 Seria massa uma oportunidade para participar em projetos de java
-- 🤔 Eu estou buscando aplicar os conhecimentos de Java que eu estou aprendendo em sala
-- 😄 Se você procura alguém com muita vontade de aprender e extremamente comunicativo, esse sou EU 
+- 🌱 Eu sou estudante de Análise e Desenvolvimento de Sistemas no 4º período
+- 😄 Já pensou como seria massa a gente trabalhar junto? 
+- 👯 Em busca de uma nova oportunidade pra trabalhar nesse mundo de Java e aplicar os conhecimentos adquiridos em sala
+- 😃 Se você procura alguém com muita vontade de aprender e extremamente comunicativo, esse sou EU 
  
  ##
  
