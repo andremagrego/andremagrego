@@ -3,7 +3,7 @@
 - 🌱 Eu sou estudante de Análise e Desenvolvimento de Sistemas no 4º período
 - 😄 Já pensou como seria massa a gente trabalhar junto? 
 - 👯 Em busca de uma nova oportunidade pra trabalhar nesse mundo de Java e aplicar os conhecimentos adquiridos em sala
-- 😃 Se você procura alguém com muita vontade de aprender e extremamente comunicativo, esse sou EU 
+- 😃 Se você procura alguém com muita vontade de aprender e comunicativo, esse sou EU 
  
  ##
  
